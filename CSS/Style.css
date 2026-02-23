@@ -94,6 +94,7 @@ img {
 
 .texte-1 {
     color: #333;
+    margin-left: 180px;
 }
 
 .container {
@@ -177,7 +178,9 @@ h3 {
 .footer-1 {
     background-color: rgb(185, 224, 240);
     padding: 30px;
+    width: 96.5vw;
     margin-left: -95px;
+  
 }
 
 ul li {
@@ -197,13 +200,13 @@ ul li {
 .footer-3 {
     background-color: rgb(185, 224, 240);
     padding: 30px;
-    margin-top: 447px;
+    margin-top: 445px;
 }
 
 .footer-4 {
     background-color: rgb(185, 224, 240);
     padding: 30px;
-    margin-top: 511px;
+    margin-top: 407px;
 }
 
 a{
@@ -213,4 +216,8 @@ a{
 
 a:hover{
     color: #728ddd;
+}
+
+.image-1{
+    border-radius: 20%;
 }
