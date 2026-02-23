@@ -38,8 +38,9 @@ nav ul li a:hover {
     border-bottom: none;
     border-right: none;
     border-left: 4px solid rgb(2, 2, 160);
-    margin-left: 10px;
+    margin-left: 11px;
     background-color: rgb(185, 224, 240);
+    width: 99.4vw;
 }
 
 .border-left p {
