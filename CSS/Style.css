@@ -53,6 +53,10 @@ h1{
     margin-left: 10px;
 }
 
+h2{
+    margin-left: 10px;
+}
+
 .lien{
     border: 1px solid rgb(2, 2, 160);
     padding: 10px;
@@ -76,4 +80,12 @@ h1{
 footer{
     background-color: #f3fdfd;
     padding: 30px;
+}
+
+img{
+    margin-bottom: -50px;
+}
+
+.texte-1{
+    color: #333;
 }
