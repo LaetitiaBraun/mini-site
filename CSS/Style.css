@@ -89,3 +89,32 @@ img{
 .texte-1{
     color: #333;
 }
+
+.container{
+    text-align: center;
+}
+
+.card{
+    display: inline-block;
+    width: 28%;
+    margin: 15px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    vertical-align: top;
+    text-align: left;
+}
+
+.card h3{
+    font-size: 16px;
+}
+
+.card a{
+    display: inline-block;
+    margin-top: 10px;
+    color: blue;
+    text-decoration: none;
+}
+
+.card a:hover{
+    color: #2d5be3;
+}
