@@ -1,10 +1,12 @@
 body {
     margin: 0;
+    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
-    background-color: #f3fdfd;
+    background-image: url('../Images/hero_gradient.svg');
+    background-size: cover;
 }
 
 nav h1{
@@ -23,7 +25,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: blue;
+    color: white;
 }
 
 nav ul li a:hover{
@@ -47,14 +49,17 @@ nav ul li a:hover{
 p{
     text-align: justify;
     margin-left: 10px;
+    color: white;
 }
 
 h1{
     margin-left: 10px;
+    color: white;
 }
 
 h2{
     margin-left: 10px;
+    color: white;
 }
 
 .lien{
@@ -149,6 +154,11 @@ img{
 
 h3{
     margin-left: 10px;
+    color: white;
+}
+
+h4{
+    color: white;
 }
 
 .a-1{
@@ -159,4 +169,12 @@ h3{
     background-color: #f3fdfd;
     padding: 30px;
     margin-left: -95px;
+}
+
+ul li{
+    color: white;
+}
+
+.texte-2{
+    color: black;
 }
